@@ -12,9 +12,9 @@ You can replace ".venv" with a different environment name if desired. More infor
 
 3. Activate the virtual environment by navigating to ".venv\Scripts\activate".
 
-4. Once the virtual environment is activated, install the [qr-code](https://pypi.org/project/qrcode/) and [pillow](https://pypi.org/project/pillow/) packages:
+4. Once the virtual environment is activated, install the [qrcode](https://pypi.org/project/qrcode/) and [pillow](https://pypi.org/project/pillow/) packages:
 
-`pip install qr-code`
+`pip install qrcode`
 `pip install pillow`
 
 
