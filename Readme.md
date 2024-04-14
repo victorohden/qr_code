@@ -6,7 +6,7 @@ This repository contains a simple code snippet to generate a QR Code using Pytho
 1. Ensure Python is installed on your computer.
 2. Create a virtual environment using the following command:
 
-`python -m venv .venv
+`python -m venv .venv`
 
 You can replace ".venv" with a different environment name if desired.
 
@@ -14,8 +14,8 @@ You can replace ".venv" with a different environment name if desired.
 
 4. Once the virtual environment is activated, install the required packages:
 
-`pip install qr-code
-`pip install pillow
+`pip install qr-code`
+`pip install pillow`
 
 
 #### Generating QR Codes
