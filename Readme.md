@@ -8,11 +8,11 @@ This repository contains a simple code snippet to generate a QR Code using Pytho
 
 `python -m venv .venv`
 
-You can replace ".venv" with a different environment name if desired.
+You can replace ".venv" with a different environment name if desired. More information [in this website](https://docs.python.org/3/library/venv.html).
 
 3. Activate the virtual environment by navigating to ".venv\Scripts\activate".
 
-4. Once the virtual environment is activated, install the required packages:
+4. Once the virtual environment is activated, install the [qr-code](https://pypi.org/project/qrcode/) and [pillow](https://pypi.org/project/pillow/) packages:
 
 `pip install qr-code`
 `pip install pillow`
