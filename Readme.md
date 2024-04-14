@@ -25,7 +25,7 @@ You can customize the colors and add text (such as a title) to the QR Code. Use 
 ![General QR-Code](./output/general_qr_code.png)
 
 - **Virtual Business Card (Vcard):**
-This feature enables you to share your contact information using a QR Code. Use the [Bussiness Card QR Code Notebook](qr-code-bussines-card.ipynb) to generate a QR code for general propouses
+This feature enables you to share your contact information using a QR Code. Use the [Bussiness Card QR Code Notebook](qr-code-bussines-card.ipynb) to generate a QR code with a Vcard.
 
 ![Bussiness Card - QR Code](./output/vcard_Your%20Name.png)
 
